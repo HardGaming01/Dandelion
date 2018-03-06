@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - firedan
+  - Flyflower
+  - water
+  - waterS
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI_Pre
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 4253844659
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameScene
+    uniqueID: 4179788269
+    locked: 0
+  - name: ForeGround
+    uniqueID: 347903243
+    locked: 0
